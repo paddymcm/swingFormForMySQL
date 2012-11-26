@@ -1,0 +1,5 @@
+This prpogram is a basic Java Swing form for the purpose of adding and retrieving information for a MySQL Database.  The data base will keep track of Systems and their parts for specific life-safety equipment Used in Navy yards.  It is very much a work in progress as I have only been working on it for a few weeks after work.  Also the requirements of the DB (not included here) keep changing.
+The basic functionality of it is as follows: once the program is started the user is asked for an email address and pw (i have them jet to 'jqs' and '2468' for the purpose of construction.  Then the user will be asked to select the kid of form they want to use
+The forms (once compled - only 2 have any structure to them) will fall into 2 basit catafories: set and get.  Set forms will write data to the db and Get forms will retrieve it.  once the database is settled on there will be a lot more get forms as the general purpose is to keep track of warranty on serialized parts(though this purpose is definately dynamic at this point!).
+
+This is my first real attempt to use Swing and I will welcome any Style points and feedback.
